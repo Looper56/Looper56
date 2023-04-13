@@ -34,4 +34,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Live-9cf?style=plastic&logo=livewire">
   <img src="https://img.shields.io/badge/Dolby-blueviolet?style=plastic&logo=dolby">
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Looper56)](https://github.com/Looper56/github-readme-stats)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Looper56">
+</div>
