@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning golang
+<div align="center">
+  <img src="https://img.shields.io/badge/Golang-blue?style=plastic&logo=go">
+</div>
 
 <!--
 **Looper56/Looper56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
