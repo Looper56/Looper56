@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <h1 height="200px" align="center">
-    God dag <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm Looper
+    HI <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm Looper
   </h1>
    <p align="center">Passionate about new things ✨backend developer from China 👨‍💻</p>
 </p>
