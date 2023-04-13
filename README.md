@@ -23,7 +23,12 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://img.shields.io/badge/Golang-blue?style=plastic&logo=go">
   <img src="https://img.shields.io/badge/Mysql-white?style=plastic&logo=mysql">
-  <img src="https://img.shields.io/badge/Golang-blue?style=plastic&logo=go">
-  <img src="https://img.shields.io/badge/Golang-blue?style=plastic&logo=go">
-  <img src="https://img.shields.io/badge/Golang-blue?style=plastic&logo=go">
+  <img src="https://img.shields.io/badge/Docker-informational?style=plastic&logo=Docker">
+  <img src="https://img.shields.io/badge/Nginx-success?style=plastic&logo=nginx">
+  <img src="https://img.shields.io/badge/Grafana-orange?style=plastic&logo=grafana">
+  <img src="https://img.shields.io/badge/LiveChat-blueviolet?style=plastic&logo=livechat">
+  <img src="https://img.shields.io/badge/Live-9cf?style=plastic&logo=livewire">
+  <img src="https://img.shields.io/badge/Redis-inactive?style=plastic&logo=redis">
+  <img src="https://img.shields.io/badge/Kafka-ff69b4?style=plastic&logo=apachekafka">
+  <img src="https://img.shields.io/badge/Dolby-blueviolet?style=plastic&logo=dolby">
 </div>
