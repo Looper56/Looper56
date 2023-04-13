@@ -1,6 +1,12 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning golang
+<p align="center">
+  <h1 height="200px" align="center">
+    God dag <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm MoYuanJun
+  </h1>
+   <p align="center">A Sometimes passion ✨ and sometimes idle 🥋 frontend developer from China 👨‍💻</p>
+</p>
 <div align="center">
   <img src="https://img.shields.io/badge/Golang-blue?style=plastic&logo=go">
 </div>
