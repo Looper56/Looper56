@@ -22,4 +22,8 @@ Here are some ideas to get you started:
 </p>
 <div align="center">
   <img src="https://img.shields.io/badge/Golang-blue?style=plastic&logo=go">
+  <img src="https://img.shields.io/badge/Mysql-white?style=plastic&logo=mysql">
+  <img src="https://img.shields.io/badge/Golang-blue?style=plastic&logo=go">
+  <img src="https://img.shields.io/badge/Golang-blue?style=plastic&logo=go">
+  <img src="https://img.shields.io/badge/Golang-blue?style=plastic&logo=go">
 </div>
