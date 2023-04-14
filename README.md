@@ -35,9 +35,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Dolby-blueviolet?style=plastic&logo=dolby">
 </div>
 <div style="display:flex !important">
-     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Looper56&count_private=true&show_icons=true&show_icons=true&theme=aura">
-       <img src="https://github-readme-stats.vercel.app/api?username=Looper56&count_private=true&show_icons=true&show_icons=true&theme=blue-green">
+     <div align="center" style="display:flex !important">
+       <div>
+          <img src="https://github-readme-stats.vercel.app/api?username=Looper56&count_private=true&show_icons=true&show_icons=true&theme=aura">
+       </div>
+       <div>
+          <img src="https://github-readme-stats.vercel.app/api?username=Looper56&count_private=true&show_icons=true&show_icons=true&theme=blue-green">
+       </div>
      </div>
      <div>
          <!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
