@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-div {
- display:flex
-}
-
 <p align="center">
   <h1 height="200px" align="center">
     Hi <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"> I'm Looper
@@ -38,8 +34,8 @@ div {
   <img src="https://img.shields.io/badge/Live-9cf?style=plastic&logo=livewire">
   <img src="https://img.shields.io/badge/Dolby-blueviolet?style=plastic&logo=dolby">
 </div>
-<div style="display: flex">
-          <img src="https://github-readme-stats.vercel.app/api?username=Looper56&count_private=true&show_icons=true&show_icons=true&theme=aura">
+<div>
+        <img src="https://github-readme-stats.vercel.app/api?username=Looper56&count_private=true&show_icons=true&show_icons=true&theme=aura">
     <!--        
         <img src="https://github-readme-stats.vercel.app/api?username=Looper56&count_private=true&show_icons=true&show_icons=true&theme=blue-green">
             -->
